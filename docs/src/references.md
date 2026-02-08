@@ -7,3 +7,5 @@
 - [RHEL Audit System Reference ](https://access.redhat.com/articles/4409591)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - [SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide/blob/master/Build/Sysmon.md)
+- [MITRE ATT&CK - tactics](https://attack.mitre.org/tactics/enterprise/)
+- [MITRE ATT&CK - techniques](https://attack.mitre.org/techniques/enterprise/)
