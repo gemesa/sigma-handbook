@@ -11,3 +11,4 @@
 # Windows
 
 - [Sysmon overview](./sysmon.md)
+- [Detecting Remcos registry values with Sysmon](./sysmon/detecting-remcos-registry-values.md)
